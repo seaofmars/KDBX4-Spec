@@ -162,7 +162,7 @@ version of the kdf to use (e.g., argon2 v19, the latest)
 # Supported ciphers
 
 |   Name   |                 UUID             | Notes |
-| -------- | -------------------------------- |       |
+| -------- | -------------------------------- | ----- |
 | AES-256  | 31c1f2e6bf714350be5805216afc5aff |       |
 | Twofish  | ad68f29f576f4bb9a36ad47af965346c |       |
 | ChaCha20 | d6038a2b8b6f4cb5a524339a31dbb59a |       |
@@ -170,7 +170,7 @@ version of the kdf to use (e.g., argon2 v19, the latest)
 # Supported KDFs
 
 |   Name   |                 UUID             | Notes |
-| -------- | -------------------------------- |       |
+| -------- | -------------------------------- | ----- |
 | Argon2   | ef636ddf8c29444b91f7a9a403e30a0c |       |
 | AES256   | c9d9f39a628a4460bf740d08c18a4fea |       |
 
